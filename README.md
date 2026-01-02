@@ -1,4 +1,4 @@
-# Verilog--Digital-Design
+# Verilog-Digital-Design
 
 # 📌 Overview (In Progress to build the repository)
 
